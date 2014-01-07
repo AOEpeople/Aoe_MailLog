@@ -1,0 +1,3 @@
+app/code/community/Aoe/MailLog/			app/code/community/Aoe/MailLog/
+app/etc/modules/*				app/etc/modules/
+app/code/community/Zend/Mail.php		app/code/community/Zend/Mail.php
